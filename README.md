@@ -1,0 +1,2 @@
+# hidato
+hidato generator, solver
